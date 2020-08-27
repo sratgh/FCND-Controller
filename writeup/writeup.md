@@ -1,11 +1,11 @@
 # FCND Controls CPP Writeup
 
-![3D Control Architecture](writeup/3D_Control_Architecture.png)
+![3D Control Architecture](3D_Control_Architecture.png)
 
 ## Testing it Out ###
 When testing the drone out, to make it stay in the air while adjusting the weight in the config file I found the following weight to work:
 ```
-Mass = 0.23
+Mass = 0.4
 ```
 
 
